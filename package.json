@@ -1,0 +1,24 @@
+{
+  "name": "fooda_filters",
+  "version": "0.0.1",
+  "description": "Make your Fooda filters transform like this:<br> ![pic](https://github.com/simsalabim/fooda_filters/blob/master/missing_filters.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simsalabim/fooda_filters.git"
+  },
+  "author": "Alexander Kaupanin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simsalabim/fooda_filters/issues"
+  },
+  "homepage": "https://github.com/simsalabim/fooda_filters#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-change": "^1.0.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
